@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm @ChangXXX
+
+🌱 I’m currently learning Android
+
+📫 How to reach me: eqqt97@naver.com
 
 <!--
 **ChangXXX/ChangXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
