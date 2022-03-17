@@ -4,6 +4,7 @@
 
 📫 How to reach me: eqqt97@naver.com
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changxxx0439)](https://solved.ac/changxxx0439/)
 <!--
 **ChangXXX/ChangXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
