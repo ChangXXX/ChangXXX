@@ -1,19 +1,16 @@
-### Hi there 👋 I'm @ChangXXX
+## Hi there 👋 I'm @ChangXXX
 
-🌱 I’m currently learning Android
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changxxx0439)](https://solved.ac/changxxx0439/)
-<!--
-**ChangXXX/ChangXXX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ **I'm a Android Developer**
 
-Here are some ideas to get you started:
+## 🌱 I’m currently Studying
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  
+## 📚 at least once
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=black"> <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"> <img src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=flat-square&logo=Mysql&logoColor=white">
+  
+## 📫 How to reach me
+  
+  <a href="mailto:lchang0439@gmail.com"><img src="https://img.shields.io/badge/gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:eqqt97@naver.com"><img src="https://img.shields.io/badge/naver.com-3C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
